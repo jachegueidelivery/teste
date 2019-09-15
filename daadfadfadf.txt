@@ -1,0 +1,51 @@
+[33mcommit 7c69f59c3bf23cdcb5978da9c513a3b1ea62e5bc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: TaffarelXavier <taffarel_deus@hotmail.com>
+Date:   Sun Sep 15 17:25:20 2019 -0300
+
+    Alteraçao
+
+[33mcommit e099baf8d92be3b1d7ef02ba05ccbb764600e266[m
+Author: TaffarelXavier <taffarel_deus@hotmail.com>
+Date:   Sun Sep 15 17:10:25 2019 -0300
+
+    Teste
+
+[33mcommit 950d371350516e1e7a2cb68e3ff51879759362c0[m[33m ([m[1;31morigin/alteracao-cor[m[33m, [m[1;32malteracao-cor[m[33m)[m
+Author: TaffarelXavier <taffarel_deus@hotmail.com>
+Date:   Sun Sep 15 16:31:35 2019 -0300
+
+    teste
+
+[33mcommit 723724bfc952ba07dc507e904b930a778a2eb711[m
+Merge: 36ba3e5 02a3509
+Author: TaffarelXavier <taffarel_deus@hotmail.com>
+Date:   Sun Sep 15 16:20:32 2019 -0300
+
+    Merge branch 'alteracao-cor' of https://github.com/jachegueidelivery/teste into alteracao-cor
+
+[33mcommit 36ba3e51f7a64b2e3bd5c765fc2e44c725b28128[m
+Merge: c624395 6169c1a
+Author: jachegueidelivery <55354627+jachegueidelivery@users.noreply.github.com>
+Date:   Sun Sep 15 16:12:10 2019 -0300
+
+    Merge pull request #1 from jachegueidelivery/alteracao-cor
+    
+    Alteração do Readme.md
+
+[33mcommit 02a3509588a641bdf48bfdfbbc785e160df7cafe[m
+Author: jachegueidelivery <jachegueidelivery@hotmail.com>
+Date:   Sun Sep 15 16:11:44 2019 -0300
+
+    Alteraçao do Readme.md
+
+[33mcommit 6169c1ae81f800bd693290ec5b39f397b6a93460[m
+Author: jachegueidelivery <jachegueidelivery@hotmail.com>
+Date:   Sun Sep 15 16:04:50 2019 -0300
+
+    Alteraçao do Readme.md
+
+[33mcommit c6243955237d80e56d3f7e91e1d2749a468af2ea[m
+Author: jachegueidelivery <jachegueidelivery@hotmail.com>
+Date:   Sun Sep 15 13:31:26 2019 -0300
+
+    first commit
