@@ -5,3 +5,4 @@ function add (){
     alert('Teste')
 }
 ```
+teste
