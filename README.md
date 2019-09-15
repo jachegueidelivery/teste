@@ -2,6 +2,6 @@
 
 ```sh
 function add (){
-
+    alert('Teste')
 }
 ```
